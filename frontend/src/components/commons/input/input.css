@@ -1,0 +1,16 @@
+
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.input {
+    padding: 10px;
+    font-size: 14px;
+}
+.submit {
+    padding: 10px;
+    font-size: 14px;
+}
